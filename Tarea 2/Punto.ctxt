@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Punto
+comment1.params=coordenadaX\ coordenadaY
+comment1.target=Punto(double,\ double)
+comment2.params=
+comment2.target=double\ getCoordenadaX()
+comment3.params=
+comment3.target=double\ getCoordenadaY()
+numComments=4
